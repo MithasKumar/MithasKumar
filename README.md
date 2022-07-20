@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MithasKumar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Infromation Technology from NITK
+- 🌱 I did my B.tech from NITK in Information technology
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me official mail: mithas.181it227@nitk.edu.in
 
